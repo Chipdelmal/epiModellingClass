@@ -15,11 +15,6 @@ _The goal of this course is to lead students through the process of designing ma
 [SIR](https://github.com/Chipdelmal/epiModellingClass/blob/master/Tutorials/SIR.ipynb), [SEIR](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical01/SEIR.ipynb), [Ebola](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical01/ebolaSimple.ipynb), [Ebola with Hospitalization](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical01/ebolaComplex.ipynb), [Measles](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical02/Measles.ipynb)
 
 
-# Source
-
-[PBHLTH252B @ University of California, Berkeley](https://www.marshalllab.com/courses.html)
-
-
 # Code Author
 
 <img src="./media/yoshi.jpg" height="150px" align="middle"><br>
