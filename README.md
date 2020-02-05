@@ -6,8 +6,8 @@ _The goal of this course is to lead students through the process of designing ma
 
 ## Practicals
 
-* [Practical 1](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical01)
-* [Practical 2](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical02)
+* [Practical 1](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical01):  Overview, intro to compartmental models
+* [Practical 2](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical02): Dynamics of simple models, herd effect
 
 ## Models
 
