@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 
-def plotEpiDynamics(triplets, t, N, alpha=.5):
+def plotEpiDynamics(triplets, t, tmax, N, alpha=.5):
     fig = plt.figure(facecolor='w')
     ax = fig.add_subplot(111, axisbelow=True)
     for tp in triplets:
@@ -9,6 +9,6 @@ def plotEpiDynamics(triplets, t, N, alpha=.5):
     ax.set_xlabel('Time (days)')
     ax.set_ylabel('Population Fraction')
     ax.set_ylim(0, 1)
-    ax.set_xlim(0, len(t))
+    ax.set_xlim(0, tmax)
     ax.legend()
     return fig, ax
