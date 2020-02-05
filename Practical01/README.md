@@ -6,6 +6,6 @@
 
 # Author
 
-<img src="./media/yoshi.jpg" height="150px" align="middle"><br>
+<img src="https://raw.githubusercontent.com/Chipdelmal/epiModellingClass/master/media/yoshi.jpg?token=AAFHFVEV5FQPOQYMMMERMZK6INSRK" height="150px" align="middle"><br>
 
 [Héctor M. Sánchez C.](https://chipdelmal.github.io/)
