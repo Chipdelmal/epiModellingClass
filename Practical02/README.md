@@ -11,7 +11,8 @@ Source: [PBHLTH252B @ University of California, Berkeley](https://www.marshallla
 * Part 3: Open SEIR Model (Measles) [[Part 1]](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical02/SEIR_Open.ipynb) [[Part 2]](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical02/Measles.ipynb)
 * Part 4: [Ebola](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical01/ebolaSimple.ipynb)
 
-# Author
+
+# Code Author
 
 <img src="https://raw.githubusercontent.com/Chipdelmal/epiModellingClass/master/media/yoshi.jpg?token=AAFHFVEV5FQPOQYMMMERMZK6INSRK" height="150px" align="middle"><br>
 
