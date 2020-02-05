@@ -1,8 +1,8 @@
 # epiModellingClass
 
 
-_In this practical we will: Explore the dynamics of the closed SEIR model, mimic the dynamics of historical measles epidemics using the open SEIR model, and use the Ebola model from Practical 1 to explore the impact of behavior changes on
-epidemic spread._
+_"In this practical we will: Explore the dynamics of the closed SEIR model, mimic the dynamics of historical measles epidemics using the open SEIR model, and use the Ebola model from Practical 1 to explore the impact of behavior changes on
+epidemic spread."_
 
 Source: [PBHLTH252B @ University of California, Berkeley](https://www.marshalllab.com/courses.html)
 
