@@ -25,3 +25,11 @@ def plotEpiDynamicsPop(triplets, t, tmax, N, alpha=.5, lw=4):
     ax.set_xlim(0, tmax)
     ax.legend()
     return fig, ax
+
+
+def parseEbolaPlotTriplets(S, E, I, R, B, D):
+    tp = (
+            (S, '#02146b', 'S'), (E, '#ffb428', 'E'), (I, '#b4e830', 'I'),
+            (R, '#e21e7b', 'R'), (B, '#888888', 'B'), (D, '#12eaea', 'D')
+        )
+    return tp
