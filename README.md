@@ -12,7 +12,7 @@ _"The goal of this course is to lead students through the process of designing m
 
 ## Models
 
-[SIR](https://github.com/Chipdelmal/epiModellingClass/blob/master/Tutorials/SIR.ipynb), [SEIR](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical01/SEIR.ipynb), [Ebola](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical01/ebolaSimple.ipynb), [Ebola with Hospitalization](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical01/ebolaComplex.ipynb), [Measles](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical02/Measles.ipynb)
+[SIR](https://github.com/Chipdelmal/epiModellingClass/blob/master/Tutorials/SIR.ipynb), [SEIR](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical01/SEIR.ipynb), [Ebola](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical01/ebolaSimple.ipynb), [Ebola with Hospitalization](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical01/ebolaComplex.ipynb), [Measles](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical02/Measles.ipynb), [Ebola with Interventions](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical02/ebolaInterventions.ipynb)
 
 
 # Code Author
