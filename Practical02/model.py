@@ -44,7 +44,7 @@ def dEbolaCRInfected(y, t, N, betaI, betaD, f, m, r, mu, actTime=90):
     S, E, I, R, D, B = y
     # Interventions Conditions
     if t > actTime:
-        betaD = betaI / 2
+        betaI = betaI / 2
     # ODEs
     dSdt = -(betaI * I / N + betaD * D/N) * S
     dEdt = (betaI * I / N + betaD * D/N) * S - f * E
