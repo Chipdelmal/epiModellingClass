@@ -7,9 +7,18 @@ _"The goal of this course is to lead students through the process of designing m
 
 ## Practicals
 
-* [Practical 1](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical01):  Overview, intro to compartmental models.
-* [Practical 2](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical02): Dynamics of simple models, herd effect.
-* [Practical 3](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical03): Heterogeneous behavior, STIs, HIV.
+* [Practical 01: Overview, intro to compartmental models.](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical01)
+* [Practical 02: Dynamics of simple models, herd effect.](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical02)
+* [Practical 03: Heterogeneous behavior, STIs, HIV.](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical03)
+* Practical 04: Intro to stochastic models.
+* Practical 05: Estimating parameters from incidence data.
+* Practical 06: Estimating parameters from seroprevalence data.
+* Practical 07: Outbreak analysis.
+* Practical 08: Vector-borne diseases.
+* Practical 09: Intro to MCMC methods.
+* Practical 10: MCMC methods for fitting models to data.
+* Practical 11: Individual-based models, network models.
+* Practical 12: ABC, particle MCMC.
 
 
 ## Models
