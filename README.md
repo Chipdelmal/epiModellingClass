@@ -7,9 +7,9 @@ _"The goal of this course is to lead students through the process of designing m
 
 ## Practicals
 
-* [Practical 01: Overview, intro to compartmental models.](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical01)
-* [Practical 02: Dynamics of simple models, herd effect.](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical02)
-* [Practical 03: Heterogeneous behavior, STIs, HIV.](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical03)
+* Practical 01: [Overview, intro to compartmental models.](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical01)
+* Practical 02: [Dynamics of simple models, herd effect.](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical02)
+* Practical 03: [Heterogeneous behavior, STIs, HIV.](https://github.com/Chipdelmal/epiModellingClass/tree/master/Practical03)
 * Practical 04: Intro to stochastic models.
 * Practical 05: Estimating parameters from incidence data.
 * Practical 06: Estimating parameters from seroprevalence data.

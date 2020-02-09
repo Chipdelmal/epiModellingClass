@@ -5,7 +5,7 @@ _"In this practical, we will: Continue to develop our skills in using Berkeley M
 
 Source: [PBHLTH252B @ University of California, Berkeley](https://www.marshalllab.com/courses.html)
 
-* Part 1: Modeling gonorrhea transmission
+* Part 1: [Modeling gonorrhea transmission](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical03/Gonorrhea_Simple.ipynb)
 * Part 2: Modeling gonorrhea transmission with heterogeneity
 * Part 3: Modeling HIV transmission
 * Part 4: Modeling HIV transmission with heterogeneity
