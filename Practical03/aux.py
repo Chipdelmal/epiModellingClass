@@ -20,7 +20,7 @@ def plotEpiDynamicsPop(triplets, t, tmax, N, alpha=.5, lw=4):
     for tp in triplets:
         ax.plot(t, tp[0], tp[1], alpha=0.5, lw=lw, label=tp[2])
     ax.set_xlabel('Time (days)')
-    ax.set_ylabel('Population')
+    ax.set_ylabel('Population Fraction')
     ax.set_ylim(0, N)
     ax.set_xlim(0, tmax)
     ax.legend()
