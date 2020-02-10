@@ -17,7 +17,10 @@ def dGonorrhea(y, t, N, beta, partRate, rec):
     return (dSdt, dIdt)
 
 
-def dGonorrheaHeterogeneous(y, t, N, beta, cL, cMean, nH, nL, rec):
+def dGonorrheaHeterogeneous(
+            y, t, N,
+            beta, cL, cMean, nH, nL, rec, gH, gL, cH
+        ):
     SH, IH, SL, IL = y
     p = (gH*IH)/(nH*N)+(gL*IL)/(nL*N)
     # ODE
