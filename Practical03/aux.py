@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-
 def plotEpiDynamics(triplets, t, tmax, N, alpha=.5, lw=4, ymax=1):
     fig = plt.figure(facecolor='w')
     ax = fig.add_subplot(111, axisbelow=True)

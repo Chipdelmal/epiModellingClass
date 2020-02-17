@@ -7,5 +7,5 @@ Source: [PBHLTH252B @ University of California, Berkeley](https://www.marshallla
 
 * Part 1: [Modeling gonorrhea transmission](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical03/Gonorrhea_Simple.ipynb)
 * Part 2: Modeling gonorrhea transmission with heterogeneity [[Part 1]](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical03/Gonorrhea_Heterogeneous.ipynb) [[Part 2]](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical03/Gonorrhea_HeterogeneousB.ipynb)
-* Part 3: Modeling HIV transmission
+* Part 3: [Modeling HIV transmission](https://github.com/Chipdelmal/epiModellingClass/blob/master/Practical03/HIV_Simple.ipynb)
 * Part 4: Modeling HIV transmission with heterogeneity
