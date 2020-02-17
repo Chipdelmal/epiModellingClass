@@ -33,7 +33,7 @@ def dHIV(y, t, N, c, beta, gamma, mu, m, alpha):
     S, I, A = y
     # ODE
     lmda = c * beta * I / (I + S)
-    dSdt = (alpha * N) - (lmda * S + m * S)
+    dSdt = ((alpha + m) * N) - (lmda * S + m * S)
     dIdt = (lmda * S) - (gamma * I - m * I)
     dAdt = (gamma * I) - ((m + mu) * A)
     return (dSdt, dIdt, dAdt)
