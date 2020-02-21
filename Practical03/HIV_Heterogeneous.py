@@ -15,7 +15,10 @@ plt.rcParams['figure.figsize'] = [12, 5]
 newL = 1-newH
 
 (SH, SL, IH, IL, AH, AL, DH, DL) = (
-        newH*N - Inf0,  N-(newH*N), Inf0, 0, 0, 0, 0, 0
+        newH*N - Inf0, N-(newH*N),
+        Inf0, 0,
+        0, 0,
+        0, 0
     )
 
 t = np.linspace(0, tmax, tmax * 10)
@@ -44,3 +47,4 @@ ax.set_yticks(np.arange(0, 1, .1))
 ax.set_ylim(0, 1)
 plt.grid(b=True, which='major', lw=.2, alpha=.5,
          color='#666666', linestyle='--')
+dxzz
