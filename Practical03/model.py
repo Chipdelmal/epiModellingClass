@@ -45,21 +45,21 @@ def dHIVHeterogeneous(
             m, beta, gam, mu
         ):
     (SH, SL, IH, IL, AH, AL, DH, DL) = y
-    # calculated things
+    # Intermediate params
     nH = IH/(IH+SH)
     nL = IL/(IL+SL)
-    gH = cH*nH/(cH*nH+cL*nL)
-    gL = 1-gH
-    # partner probability
-    p = (gH*IH)/(SH+IH)+(gL*IL)/(SL+IL)
-    # rate of change
-    dSH = newH*(alpha+m)*N - cH*beta*p*SH - m*SH
-    dIH = cH*beta*p*SH - (gam+m)*IH
-    dAH = gam*IH - (m+mu)*AH
-    dDH = mu*AH
-
-    dSL = newL*(alpha+m)*N - cL*beta*p*SL - m*SL
-    dIL = cL*beta*p*SL - (gam+m)*IL
-    dAL = gam*IL - (m+mu)*AL
-    dDL = mu*AL
+    gH = (cH * nH) / (cH * nH + cL * nL)
+    gL = 1 - gH
+    # Partnership probability
+    p = (gH * IH) / (SH + IH) + (gL * IL) / (SL + IL)
+    # Rate changes
+    (lambdaH, lambdaL) = (cH * beta * p,  cL * beta * p)
+    dSH = newH * (alpha + m) * N - lambdaH * SH - m*SH
+    dIH = lambdaH * SH - (gam + m) * IH
+    dAH = gam * IH - (m + mu) * AH
+    dDH = mu * AH
+    dSL = newL * (alpha + m) * N - lambdaL * SL - m*SL
+    dIL = lambdaL * SL - (gam + m) * IL
+    dAL = gam * IL - (m + mu) * AL
+    dDL = mu * AL
     return (dSH, dSL, dIH, dIL, dAH, dAL, dDH, dDL)
